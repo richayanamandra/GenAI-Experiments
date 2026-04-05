@@ -1,7 +1,3 @@
-# CSET419 – Introduction to Generative AI
-
-## Lab – 11
-
 ## Objective
 
 The objective of this lab is to fine-tune a pre-trained generative model (GPT-2) for real-world applications. Students will fine-tune GPT-2 to build a Product Review Generator for e-commerce and a Recipe Instruction Generator for a food-tech application, learning how transfer learning adapts a general model to specific business domains.
